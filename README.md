@@ -1,6 +1,6 @@
 # Soroush Osivand
 
-**Senior Full-Stack & AI Engineer** — Newmarket, Ontario 🇨🇦
+**Senior Full-Stack & AI Engineer** — Toronto, Ontario 🇨🇦
 
 I build production web and mobile applications end to end: frontend, backend, infrastructure, and the LLM systems inside them.
 
