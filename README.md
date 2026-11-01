@@ -10,6 +10,8 @@ I build production web and mobile applications end to end: frontend, backend, in
 
 ### What I'm building
 
+**[TaxFi](https://www.taxfi.ca)** — Free Canadian tax and bookkeeping app, live on the [App Store](https://apps.apple.com/us/app/taxfi/id6826441077). Reads statements from any Canadian bank, sorts every transaction, and prepares personal and small-business tax (T1, T2125, HST, payroll) on the device. The books are encrypted on the device and sync between devices over Wi-Fi with no server. AI answers through the Claude API, after a built-in knowledge pack answers on the device first. SwiftUI · Swift 6 · SQLite · Cloudflare Workers · Claude API.
+
 **[Doyo](https://doyo.ca)** — AI-native marketplace for home and professional services in Canada. Natural-language booking engine on GPT-4o that interprets free-text requests in any language, with a WebSocket layer for real-time provider matching. Next.js · Node.js · PostgreSQL · React Native · AWS.
 
 **[ADFI](https://adfi.ca)** — Multi-agent AI marketing platform. Node.js orchestration layer coordinating six specialized agents in parallel, behind Stripe subscription billing with usage metering. Next.js · Claude API · GPT-4o · Stripe.
